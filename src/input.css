@@ -47,3 +47,7 @@ input:checked~.dot {
     transform: translateX(100%);
     @apply bg-bleu-500 border-2 border-bleu-500
 }
+
+h4{
+    @apply text-xl text-bleu-50 font-bold pb-4
+}
